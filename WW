@@ -1,0 +1,1148 @@
+--Data from the National WWII Museum of New Orleans website.
+CREATE TABLE ww2 (
+    id_2             INTEGER PRIMARY KEY AUTOINCREMENT,
+    country2         TEXT,
+    population2      NUMERIC,
+    military_deaths2 NUMERIC,
+    civilian_deaths2 NUMERIC,
+    total_deaths2    NUMERIC
+);
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Albania',
+                    '803000',
+                    '30000',
+                    '200',
+                    '30200'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Australia',
+                    '6907078',
+                    '39800',
+                    '700',
+                    '40500'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Austria',
+                    '6658000',
+                    '261000',
+                    '123700',
+                    '384700'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Belgium',
+                    '8387000',
+                    '12100',
+                    '74000',
+                    '86100'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Brazil',
+                    '40289000',
+                    '1000',
+                    '1000',
+                    '2000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Bulgaria',
+                    '6458000',
+                    '22000',
+                    '3000',
+                    '25000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Canada',
+                    '11000000',
+                    '45400',
+                    '0',
+                    '45400'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'China',
+                    '267568000',
+                    '4000000',
+                    '16000000',
+                    '20000000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Czechoslovakia',
+                    '11200000',
+                    '25000',
+                    '320000',
+                    '345000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Denmark',
+                    '3795000',
+                    '2100',
+                    '1100',
+                    '3200'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Dutch East Indies',
+                    '60727233',
+                    '0',
+                    '4000000',
+                    '4000000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Estonia',
+                    '1133917',
+                    '0',
+                    '51000',
+                    '51000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Ethiopia',
+                    '1550000',
+                    '5000',
+                    '95000',
+                    '100000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Finland',
+                    '370000',
+                    '95000',
+                    '2000',
+                    '97000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'France',
+                    '41000000',
+                    '217600',
+                    '350000',
+                    '567600'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'French Indochina',
+                    '24568000',
+                    '0',
+                    '1500000',
+                    '1500000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Germany',
+                    '69314000',
+                    '5533000',
+                    '3267000',
+                    '8800000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Greece',
+                    '7222000',
+                    '35000',
+                    '765000',
+                    '800000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Hungary',
+                    '9129000',
+                    '300000',
+                    '280000',
+                    '580000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'India',
+                    '377800000',
+                    '87000',
+                    '2413000',
+                    '2500000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Italy',
+                    '43400000',
+                    '301400',
+                    '155600',
+                    '457000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Japan',
+                    '71900000',
+                    '2120000',
+                    '980000',
+                    '3100000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Netherlands',
+                    '8729000',
+                    '17000',
+                    '284000',
+                    '301000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'New Zealand',
+                    '1626500',
+                    '11900',
+                    '0',
+                    '11900'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Norway',
+                    '2945000',
+                    '3000',
+                    '6500',
+                    '9500'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Philippines',
+                    '16000808',
+                    '57000',
+                    '943000',
+                    '1000000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Poland',
+                    '35100000',
+                    '240000',
+                    '5360000',
+                    '5600000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Romania',
+                    '19933800',
+                    '300000',
+                    '533000',
+                    '833000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Soviet Union',
+                    '170500000',
+                    '10700000',
+                    '13300000',
+                    '24000000'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'United Kingdom',
+                    '47760000',
+                    '383600',
+                    '67100',
+                    '450700'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'United States',
+                    '131028000',
+                    '416800',
+                    '1700',
+                    '418500'
+                );
+
+INSERT INTO ww2 (
+                    country2,
+                    population2,
+                    military_deaths2,
+                    civilian_deaths2,
+                    total_deaths2
+                )
+                VALUES (
+                    'Yugoslavia',
+                    '15400000',
+                    '446000',
+                    '554000',
+                    '1000000'
+                );
+
+SELECT *
+  FROM ww2;
+  
+--Data from Centre européen Robert Schuman WW1 casualties website.
+CREATE TABLE ww1 (
+    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    country         TEXT,
+    population      NUMERIC,
+    military_deaths NUMERIC,
+    civilian_deaths NUMERIC,
+    total_deaths    NUMERIC
+);
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Australia',
+                    '4500000',
+                    '61928',
+                    '0',
+                    '61982'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Belgium',
+                    '7400000',
+                    '58637',
+                    '62000',
+                    '120637'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Canada',
+                    '7200000',
+                    '64944',
+                    '2000',
+                    '66944'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Indian Empire',
+                    '315100000',
+                    '74187',
+                    '0',
+                    '74187'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'New Zealand',
+                    '1100000',
+                    '18050',
+                    '0',
+                    '18050'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Newfoundland',
+                    '200000',
+                    '1204',
+                    '0',
+                    '1204'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'South Africa',
+                    '6000000',
+                    '9463',
+                    '0',
+                    '9463'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'United Kingdom',
+                    '45400000',
+                    '885138',
+                    '109000',
+                    '994138'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'France',
+                    '39600000',
+                    '1397800',
+                    '300000',
+                    '1697800'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Greece',
+                    '4800000',
+                    '26000',
+                    '150000',
+                    '176000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Italy',
+                    '35600000',
+                    '651000',
+                    '589000',
+                    '1240000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Empire Of Japan',
+                    '53600000',
+                    '415',
+                    '0',
+                    '415'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Montenegro',
+                    '500000',
+                    '3000',
+                    '0',
+                    '3000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Portugal',
+                    '6000000',
+                    '7222',
+                    '82000',
+                    '89222'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Romania',
+                    '7500000',
+                    '250000',
+                    '430000',
+                    '680000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Russian Empire',
+                    '175100000',
+                    '1811000',
+                    '1500000',
+                    '3311000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Serbia',
+                    '4500000',
+                    '275000',
+                    '450000',
+                    '725000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'United States',
+                    '92000000',
+                    '116708',
+                    '757',
+                    '117465'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Austria-Hungary',
+                    '51400000',
+                    '1100000',
+                    '467000',
+                    '1567000'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Bulgaria',
+                    '5500000',
+                    '87500',
+                    '100000',
+                    '187500'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'German Empire',
+                    '64900000',
+                    '2050897',
+                    '426000',
+                    '2476897'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Ottoman Empire',
+                    '21300000',
+                    '771844',
+                    '2150000',
+                    '2921844'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Denmark',
+                    '2700000',
+                    '0',
+                    '722',
+                    '722'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Norway',
+                    '2400000',
+                    '0',
+                    '1892',
+                    '1892'
+                );
+
+INSERT INTO ww1 (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Sweden',
+                    '5600000',
+                    '0',
+                    '877',
+                    '877'
+                );
+
+SELECT *
+  FROM ww1;
+
+--Data for WW1.
+SELECT country,
+       population,
+       military_deaths,
+       civilian_deaths,
+       total_deaths
+  FROM ww1;
+  
+--Percentage of population that died in WW1.
+SELECT country,
+       population,
+       total_deaths,
+       ROUND( (total_deaths * 1.0 / population) * 100, 3) AS percent_pop_dead
+  FROM ww1;
+  
+--Country with highest civilian death count WW1.
+SELECT country,
+       civilian_deaths AS highest_civil_count
+  FROM ww1
+ GROUP BY country
+ ORDER BY highest_civil_count DESC;
+
+--Country with highest military death count WW1.
+SELECT country,
+       military_deaths AS highest_mil_count
+  FROM ww1
+ GROUP BY country
+ ORDER BY highest_mil_count DESC;
+
+--Global Numbers WW1.
+SELECT SUM(military_deaths) AS total_military,
+       SUM(civilian_deaths) AS total_civilian,
+       SUM(total_deaths) AS total_overall
+  FROM ww1;
+  
+--Data for WW2.
+  SELECT country2,
+       population2,
+       military_deaths2,
+       civilian_deaths2,
+       total_deaths2
+  FROM ww2;
+  
+--Percentage of population that died in WW2.
+SELECT country2,
+       population2,
+       total_deaths2,
+       ROUND( (total_deaths2 * 1.0 / population2) * 100, 3) AS percent_pop_dead
+  FROM ww2;
+  
+--Country with highest civilian death count WW2.
+SELECT country2,
+       civilian_deaths2 AS highest_civil_count
+  FROM ww2
+ GROUP BY country2
+ ORDER BY highest_civil_count DESC;
+ 
+--Country with highest military death count WW2.
+SELECT country2,
+       military_deaths2 AS highest_mil_count
+  FROM ww2
+ GROUP BY country2
+ ORDER BY highest_mil_count DESC;
+ 
+--Global Numbers WW2.
+SELECT SUM(military_deaths2) AS total_military,
+       SUM(civilian_deaths2) AS total_civilian,
+       SUM(total_deaths2) AS total_overall
+  FROM ww2;
+  
+--Comparing 4 major countries involved in both World Wars (Germany,France,Japan,United States).
+SELECT country,
+       population,
+       military_deaths,
+       civilian_deaths,
+       total_deaths
+  FROM ww1
+ WHERE country LIKE '%German%';
+ 
+SELECT country2,
+       population2,
+       military_deaths2,
+       civilian_deaths2,
+       total_deaths2
+  FROM ww2
+ WHERE country2 LIKE '%German%';
+ 
+SELECT country,
+       population,
+       military_deaths,
+       civilian_deaths,
+       total_deaths
+  FROM ww1
+ WHERE country LIKE '%France%';
+ 
+SELECT country2,
+       population2,
+       military_deaths2,
+       civilian_deaths2,
+       total_deaths2
+  FROM ww2
+ WHERE country2 LIKE '%France%';
+ 
+SELECT country,
+       population,
+       military_deaths,
+       civilian_deaths,
+       total_deaths
+  FROM ww1
+ WHERE country LIKE '%Japan%';
+ 
+SELECT country2,
+       population2,
+       military_deaths2,
+       civilian_deaths2,
+       total_deaths2
+  FROM ww2
+ WHERE country2 LIKE '%Japan%';
+ 
+SELECT country,
+       population,
+       military_deaths,
+       civilian_deaths,
+       total_deaths
+  FROM ww1
+ WHERE country LIKE '%United States%';
+ 
+SELECT country2,
+       population2,
+       military_deaths2,
+       civilian_deaths2,
+       total_deaths2
+  FROM ww2
+ WHERE country2 LIKE '%United States%';
+ 
+--Using temp table to show comparisons easily.
+CREATE TEMP TABLE both_ww (
+    id              INTEGER PRIMARY KEY,
+    country         TEXT,
+    population      NUMERIC,
+    military_deaths NUMERIC,
+    civilian_deaths NUMERIC,
+    total_deaths    NUMERIC
+);
+
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Germany_WW1',
+                    '64900000',
+                    '2050897',
+                    '426000',
+                    '2476897'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Germany_WW2',
+                    '69314000',
+                    '5533000',
+                    '3267000',
+                    '8800000'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'France_WW1',
+                    '39600000',
+                    '1397800',
+                    '300000',
+                    '1697800'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'France_WW2',
+                    '41000000',
+                    '217600',
+                    '350000',
+                    '567600'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Japan_WW1',
+                    '53600000',
+                    '415',
+                    '0',
+                    '415'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'Japan_WW2',
+                    '71900000',
+                    '2120000',
+                    '980000',
+                    '3100000'
+                );
+                
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'United_States_WW1',
+                    '92000000',
+                    '116708',
+                    '757',
+                    '117465'
+                );
+
+INSERT INTO both_ww (
+                    country,
+                    population,
+                    military_deaths,
+                    civilian_deaths,
+                    total_deaths
+                )
+                VALUES (
+                    'United_States_WW2',
+                    '131028000',
+                    '416800',
+                    '1700',
+                    '418500'
+                );
+                
+SELECT *
+FROM temp.both_ww;
